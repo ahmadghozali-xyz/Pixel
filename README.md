@@ -2,7 +2,7 @@
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/gvoze32/botpxlver.git`
-2. Navigate to the project directory: `cd botpxlver`
+2. Navigate to the project directory: `cd pixel`
 3. Install node dependencies: `npm i`
 4. Install py dependencies (optional): `pip install requests beautifulsoup4`
 
