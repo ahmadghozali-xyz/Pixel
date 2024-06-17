@@ -1,4 +1,4 @@
-# BotPXLVER
+# BotPIXEL
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/ahmadghozali-xyz/pixel`
